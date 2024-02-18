@@ -1,0 +1,379 @@
+ 
+div { 
+    margin: 0; 
+    padding: 0; 
+    border: 0; 
+    vertical-align: baseline; 
+    font-size: 100%;
+} 
+
+.master-holder div { 
+    box-sizing: border-box;
+} 
+
+.mk-grid { 
+    width: 100%; 
+    margin: 0 auto;
+} 
+
+.mk-grid { 
+    max-width: 1140px;
+} 
+
+.master-holder div,.theme-page-wrapper { 
+    box-sizing: border-box;
+} 
+
+ 
+
+html { 
+    width: 100%; 
+    height: 100%; 
+    margin: 0; 
+    padding: 0;
+} 
+
+html { 
+    -ms-overflow-style: scrollbar;
+} 
+
+html { 
+    margin: 0; 
+    padding: 0; 
+    border: 0; 
+    vertical-align: baseline; 
+    font-size: 100%;
+} 
+
+html { 
+    font-size: 100%; 
+    -webkit-font-smoothing: antialiased; 
+    -webkit-text-size-adjust: 100%; 
+    -ms-text-size-adjust: 100%;
+} 
+
+.vc_row { 
+    margin-left: -15px; 
+    margin-right: -15px;
+} 
+
+.vc_row { 
+    position: relative;
+} 
+
+#mk-notification-bar,#mk-page-introduce,#mk-theme-container,.master-holder div,.mk-blog-classic-item,.mk-blog-grid-item,.mk-employee-item,.mk-fullwidth-boxed,.mk-gallery .gallery-caption,.mk-gallery .gallery-inner,.mk-gallery .gallery-title,.mk-header-toolbar,.mk-image-caption,.mk-news-item,.page-section-content,.portfolio-widget-info,.shopping-cart-header,.testimonial-column .testimonial-item,.text-input,.theme-page-wrapper,:after,:before,[class*="mk-col-"],input[type="text"],textarea { 
+    box-sizing: border-box;
+} 
+
+.vc_row:after,.vc_row:before { 
+    content: " "; 
+    display: table;
+} 
+
+.mk-grid:after { 
+    content: ""; 
+    display: table; 
+    clear: both;
+} 
+
+.vc_row:after { 
+    clear: both;
+} 
+
+:selection { 
+    background-color: #bc8a19; 
+    color: #fff;
+} 
+
+.vc_col-sm-4 { 
+    position: relative; 
+    min-height: 1px; 
+    padding-left: 15px; 
+    padding-right: 15px; 
+    box-sizing: border-box;
+} 
+
+@media (min-width: 768px){ 
+  .vc_col-sm-4 { 
+    float: left;
+  } 
+
+  .vc_col-sm-4 { 
+    width: 33.33333333%;
+  } 
+}     
+
+.jupiter-donut-height-full { 
+    height: 100%;
+} 
+
+.vc_col-sm-8 { 
+    position: relative; 
+    min-height: 1px; 
+    padding-left: 15px; 
+    padding-right: 15px; 
+    box-sizing: border-box;
+} 
+
+@media (min-width: 768px){ 
+  .vc_col-sm-8 { 
+    float: left;
+  } 
+
+  .vc_col-sm-8 { 
+    width: 66.66666667%;
+  } 
+}     
+
+.align-left { 
+    text-align: left;
+} 
+
+.mk-image { 
+    position: relative; 
+    line-height: 4px;
+} 
+
+.mk-image.align-left { 
+    text-align: left;
+} 
+
+.vc_custom_1659349563522 { 
+    margin-bottom: 0!important;
+} 
+
+.vc_custom_1584180350834 { 
+    margin-bottom: 0!important;
+} 
+
+.mk-image-container { 
+    display: inline-block; 
+    position: relative;
+} 
+
+#text-block-15 { 
+    margin-bottom: 0; 
+    text-align: left;
+} 
+
+#text-block-16 { 
+    margin-bottom: 0; 
+    text-align: left;
+} 
+
+.clearboth { 
+    display: block; 
+    visibility: hidden; 
+    clear: both; 
+    overflow: hidden; 
+    width: 0; 
+    height: 0;
+} 
+
+.clearboth:after { 
+    display: block; 
+    visibility: hidden; 
+    clear: both; 
+    width: 0; 
+    height: 0; 
+    content: ' '; 
+    font-size: 0; 
+    line-height: 0;
+} 
+
+h4 { 
+    margin: 0 0 .8em; 
+    font-weight: 400; 
+    line-height: 1.3em; 
+    -ms-word-wrap: break-word; 
+    word-wrap: break-word; 
+    text-transform: none;
+} 
+
+h4 { 
+    font-size: 24px; 
+    margin-bottom: 9px;
+} 
+
+h4 { 
+    line-height: 1.3em;
+} 
+
+.master-holder h4 { 
+    font-size: 18px; 
+    color: #333333; 
+    font-weight: 600; 
+    text-transform: uppercase;
+} 
+
+p { 
+    margin: 0; 
+    padding: 0; 
+    border: 0; 
+    vertical-align: baseline; 
+    font-size: 100%;
+} 
+
+p { 
+    margin-bottom: 30px;
+} 
+
+p { 
+    margin-bottom: 20px;
+} 
+
+p { 
+    -ms-word-wrap: break-word; 
+    word-wrap: break-word;
+} 
+
+p { 
+    font-size: 16px; 
+    color: #333333; 
+    line-height: 1.66em;
+} 
+
+/* ul { 
+    box-sizing: border-box;
+} 
+
+ul { 
+    margin: 0; 
+    padding: 0; 
+    border: 0; 
+    vertical-align: baseline; 
+    font-size: 100%;
+} 
+
+ul { 
+    list-style: none;
+} 
+
+ul { 
+    margin-bottom: 20px;
+}  */
+
+/* ul { 
+    margin-bottom: 1em; 
+    margin-left: 1.5em; 
+    list-style-type: disc;
+}  */
+
+.mk-image .mk-image-inner  { 
+    position: relative; 
+    overflow: hidden; 
+    width: auto;
+} 
+
+strong { 
+    margin: 0; 
+    padding: 0; 
+    border: 0; 
+    vertical-align: baseline; 
+    font-size: 100%;
+} 
+
+strong { 
+    font-weight: 700;
+} 
+
+strong  { 
+    color: #bc8a19;
+} 
+
+/* li { 
+    margin: 0; 
+    padding: 0; 
+    border: 0; 
+    vertical-align: baseline; 
+    font-size: 100%;
+} 
+
+ul li  { 
+    margin-left: .85em;
+} 
+
+.theme-content li { 
+    font-size: 16px; 
+    color: #333; 
+    line-height: 1.66em;
+}  */
+
+a { 
+    margin: 0; 
+    padding: 0; 
+    border: 0; 
+    vertical-align: baseline; 
+    font-size: 100%;
+} 
+
+.mk-image-link { 
+    transition: all .15s ease-in-out; 
+    -webkit-perspective: 1000;
+} 
+
+a:link { 
+    outline: 0 none; 
+    text-decoration: none;
+} 
+
+a:active,a:hover { 
+    outline: 0;
+} 
+
+a:active,a:hover,a:link { 
+    outline: 0 none; 
+    text-decoration: none;
+} 
+
+a:hover { 
+    color: #36a8de;
+} 
+
+em { 
+    margin: 0; 
+    padding: 0; 
+    border: 0; 
+    vertical-align: baseline; 
+    font-size: 100%;
+} 
+
+em { 
+    font-style: italic;
+} 
+
+img { 
+    margin: 0; 
+    padding: 0; 
+    border: 0; 
+    vertical-align: baseline; 
+    font-size: 100%;
+} 
+
+.theme-content img,.vc_row-fluid img { 
+    max-width: 100%; 
+    width: auto\9; 
+    height: auto; 
+    border: 0; 
+    vertical-align: middle; 
+    -ms-interpolation-mode: bicubic;
+} 
+
+.mk-image .mk-image-inner img  { 
+    width: 100%;
+} 
+
+
+/* These were inline style tags. Uses id+class to override almost everything */
+#style-9Nz9s.style-9Nz9s {  
+   max-width: 1732px;  
+}  
+#style-5ZBZb.style-5ZBZb {  
+   max-width: 1732px;  
+}  
+#style-eOQoc.style-eOQoc {  
+   max-width: 1737px;  
+}  
+#style-ND4Fa.style-ND4Fa {  
+   max-width: 1737px;  
+}  
